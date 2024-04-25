@@ -1,10 +1,16 @@
 # Ballade Tempo
-Doricoの**即時テンポテキスト**と**メトロノームテキスト**用フォントです。
+Doricoの**即時テンポテキスト**と**メトロノームテキスト**用フォントの試作品です。
 ## ダウンロード
-[Zipファイル](https://github.com/soyashigeta/Ballade-Tempo/files/15112129/BalladeTempo.zip)
+[バージョン1.0（zipファイル）](https://github.com/soyashigeta/Ballade-Tempo/files/15112129/BalladeTempo.zip)
 ## インストール
 **BalladeTempo-Regular.otf**と**BalladeTempo-Bold.otf**をインストールしてください。
 ## 設定
 Doricoの**ライブラリー** > **フォントスタイル**より**即時テンポテキスト**のフォントファミリーをBallade Tempo、スタイルをBold、**メトロノームテキスト**のフォントファミリーをBallade Tempo、スタイルをRegularに設定してください。
+## 収録文字
+### 即時テンポテキスト (Bold)
+[Old Standard TT Bold](https://github.com/akryukov/oldstand)のラテンアルファベットをベースに調整したものと、Unicode外に小文字の上付き文字（肩文字）を収録しています。その他のOld Standard TTのキャラクターも残してあります。
+半角サーカムフレックス(^)に続けて小文字アルファベットを入力するとリガチャー（合字）によって上付き文字に置き換わります。たとえば「1^e^r mouvement」は「1<sup>er</sup> mouvement」に置き換わります。
+### メトロノームテキスト (Regular)
+メトロノーム記号に使われる「=」と「≒」をデザインしました。「≒」は「≈」の符号点にも収録していますので、**浄書オプション** > **テンポ**から**おおよその速度表記**を**ニアリーイコール記号**（≈）に設定すれば「≒」に置き換わります。数字、丸括弧、波ダッシュは[しっぽり明朝](https://github.com/fontdasu/ShipporiMincho])がベースです。波ダッシュはDoricoでデフォルトでテンポ範囲に用いられるendashの符号位置（–）にも入れてあります。漢字の「約」も[源ノ明朝](https://source.typekit.com/source-han-serif/jp/)より収録しています。リガチャー機能により、**おおよその速度表記**を**約**（approx.）に設定すれば「約」に置き換わります。ほか、「ca.」等のために[Old Standard TT Regular](https://github.com/akryukov/oldstand)のラテンアルファベット等も収録しています。
 ## ライセンス
-SIL Open Font Licenseバージョン1.1でライセンスされています。[OTF.txt](https://github.com/soyashigeta/Ballade-Tempo/OTF.txt)をご確認ください。
+SIL Open Font Licenseバージョン1.1でライセンスされています。[OTF.txt](https://github.com/soyashigeta/Ballade-Tempo/blob/main/OTF.txt)をご確認ください。
