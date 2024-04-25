@@ -1,7 +1,5 @@
 # Ballade Tempo
 Doricoの**即時テンポテキスト**と**メトロノームテキスト**用フォントの試作品です。
-## ダウンロード
-[バージョン1.0（zipファイル）](https://github.com/soyashigeta/Ballade-Tempo/files/15112129/BalladeTempo.zip)
 ## インストール
 **BalladeTempo-Regular.otf**と**BalladeTempo-Bold.otf**をインストールしてください。
 ## 設定
