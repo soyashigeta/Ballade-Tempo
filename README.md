@@ -1,7 +1,7 @@
 # Ballade Tempo
 Doricoの**即時テンポテキスト**と**メトロノームテキスト**用フォントの試作品です。
 ## インストール
-**BalladeTempo-Regular.otf**と**BalladeTempo-Bold.otf**をインストールしてください。
+**[リリース](https://github.com/soyashigeta/Ballade-Tempo/releases)** から最新バージョンをダウンロードし、**BalladeTempo-Regular.otf**と**BalladeTempo-Bold.otf**をインストールしてください。
 ## 設定
 Doricoの**ライブラリー** > **フォントスタイル**より**即時テンポテキスト**のフォントファミリーをBallade Tempo、スタイルをBold、**メトロノームテキスト**のフォントファミリーをBallade Tempo、スタイルをRegularに設定してください。
 ## 収録文字
